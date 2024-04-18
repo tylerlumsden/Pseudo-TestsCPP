@@ -1,0 +1,15 @@
+________________________________________________________________________________
+
+		FILE = Modular-Exponentiation		ALPHA = 0.0100
+________________________________________________________________________________
+
+		BITSREAD = 10 0s = 8 1s = 2
+		BITSREAD = 10 0s = 6 1s = 4
+		BITSREAD = 10 0s = 4 1s = 6
+		BITSREAD = 10 0s = 6 1s = 4
+		BITSREAD = 10 0s = 8 1s = 2
+		BITSREAD = 10 0s = 5 1s = 5
+		BITSREAD = 10 0s = 6 1s = 4
+		BITSREAD = 10 0s = 5 1s = 5
+		BITSREAD = 10 0s = 4 1s = 6
+		BITSREAD = 10 0s = 5 1s = 5

@@ -1,0 +1,1368 @@
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 898
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  631; p-value = 0.126504
+SUCCESS		(x = -8) Total visits =  691; p-value = 0.207250
+SUCCESS		(x = -7) Total visits =  719; p-value = 0.241413
+SUCCESS		(x = -6) Total visits =  716; p-value = 0.195369
+SUCCESS		(x = -5) Total visits =  738; p-value = 0.208219
+SUCCESS		(x = -4) Total visits =  797; p-value = 0.367705
+SUCCESS		(x = -3) Total visits =  824; p-value = 0.434863
+SUCCESS		(x = -2) Total visits =  851; p-value = 0.521977
+SUCCESS		(x = -1) Total visits =  889; p-value = 0.831820
+SUCCESS		(x =  1) Total visits =  884; p-value = 0.741135
+SUCCESS		(x =  2) Total visits =  863; p-value = 0.633490
+SUCCESS		(x =  3) Total visits =  843; p-value = 0.561648
+SUCCESS		(x =  4) Total visits =  785; p-value = 0.313548
+SUCCESS		(x =  5) Total visits =  750; p-value = 0.244387
+SUCCESS		(x =  6) Total visits =  762; p-value = 0.333251
+SUCCESS		(x =  7) Total visits =  745; p-value = 0.316679
+SUCCESS		(x =  8) Total visits =  677; p-value = 0.178154
+SUCCESS		(x =  9) Total visits =  628; p-value = 0.122297
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 150
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 289
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 295
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 45
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 276
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 138
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 483
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 294
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 124
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 334
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 426
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 23
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 141
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 309
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 77
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 343
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 110
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 492
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 186
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 383
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 257
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 320
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 59
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 134
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 84
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 373
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 60
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 68
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 125
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 39
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 246
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 239
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 197
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 301
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 372
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 339
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 354
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 334
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 38
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 231
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 225
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 710
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  595; p-value = 0.459199
+SUCCESS		(x = -8) Total visits =  549; p-value = 0.269960
+SUCCESS		(x = -7) Total visits =  553; p-value = 0.247871
+SUCCESS		(x = -6) Total visits =  600; p-value = 0.378783
+SUCCESS		(x = -5) Total visits =  642; p-value = 0.547500
+SUCCESS		(x = -4) Total visits =  657; p-value = 0.595005
+SUCCESS		(x = -3) Total visits =  656; p-value = 0.521612
+SUCCESS		(x = -2) Total visits =  634; p-value = 0.244255
+SUCCESS		(x = -1) Total visits =  661; p-value = 0.193490
+SUCCESS		(x =  1) Total visits =  713; p-value = 0.936546
+SUCCESS		(x =  2) Total visits =  718; p-value = 0.902447
+SUCCESS		(x =  3) Total visits =  733; p-value = 0.784884
+SUCCESS		(x =  4) Total visits =  762; p-value = 0.601972
+SUCCESS		(x =  5) Total visits =  784; p-value = 0.512735
+SUCCESS		(x =  6) Total visits =  749; p-value = 0.755003
+SUCCESS		(x =  7) Total visits =  735; p-value = 0.854011
+SUCCESS		(x =  8) Total visits =  782; p-value = 0.621775
+SUCCESS		(x =  9) Total visits =  741; p-value = 0.841854
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 82
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 365
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 185
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 53
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 189
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 280
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 560
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  529; p-value = 0.822243
+SUCCESS		(x = -8) Total visits =  541; p-value = 0.883457
+SUCCESS		(x = -7) Total visits =  542; p-value = 0.881417
+SUCCESS		(x = -6) Total visits =  536; p-value = 0.828812
+SUCCESS		(x = -5) Total visits =  566; p-value = 0.952346
+SUCCESS		(x = -4) Total visits =  594; p-value = 0.700985
+SUCCESS		(x = -3) Total visits =  573; p-value = 0.862086
+SUCCESS		(x = -2) Total visits =  555; p-value = 0.931261
+SUCCESS		(x = -1) Total visits =  582; p-value = 0.510939
+SUCCESS		(x =  1) Total visits =  492; p-value = 0.042165
+SUCCESS		(x =  2) Total visits =  430; p-value = 0.024915
+SUCCESS		(x =  3) Total visits =  408; p-value = 0.042236
+SUCCESS		(x =  4) Total visits =  408; p-value = 0.086040
+SUCCESS		(x =  5) Total visits =  434; p-value = 0.209482
+SUCCESS		(x =  6) Total visits =  431; p-value = 0.245150
+SUCCESS		(x =  7) Total visits =  428; p-value = 0.273982
+SUCCESS		(x =  8) Total visits =  494; p-value = 0.610611
+SUCCESS		(x =  9) Total visits =  480; p-value = 0.562069
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 357
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 137
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 586
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  451; p-value = 0.338864
+SUCCESS		(x = -8) Total visits =  428; p-value = 0.233400
+SUCCESS		(x = -7) Total visits =  429; p-value = 0.203397
+SUCCESS		(x = -6) Total visits =  500; p-value = 0.448797
+SUCCESS		(x = -5) Total visits =  501; p-value = 0.407883
+SUCCESS		(x = -4) Total visits =  501; p-value = 0.348019
+SUCCESS		(x = -3) Total visits =  574; p-value = 0.875435
+SUCCESS		(x = -2) Total visits =  611; p-value = 0.673306
+SUCCESS		(x = -1) Total visits =  593; p-value = 0.837985
+SUCCESS		(x =  1) Total visits =  582; p-value = 0.906986
+SUCCESS		(x =  2) Total visits =  532; p-value = 0.362460
+SUCCESS		(x =  3) Total visits =  509; p-value = 0.314478
+SUCCESS		(x =  4) Total visits =  527; p-value = 0.514797
+SUCCESS		(x =  5) Total visits =  487; p-value = 0.335076
+SUCCESS		(x =  6) Total visits =  472; p-value = 0.315366
+SUCCESS		(x =  7) Total visits =  485; p-value = 0.413215
+SUCCESS		(x =  8) Total visits =  480; p-value = 0.424024
+SUCCESS		(x =  9) Total visits =  546; p-value = 0.776884
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 68
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 143
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 125
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 583
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  556; p-value = 0.847919
+SUCCESS		(x = -8) Total visits =  553; p-value = 0.820545
+SUCCESS		(x = -7) Total visits =  562; p-value = 0.864563
+SUCCESS		(x = -6) Total visits =  558; p-value = 0.825290
+SUCCESS		(x = -5) Total visits =  535; p-value = 0.639380
+SUCCESS		(x = -4) Total visits =  531; p-value = 0.564900
+SUCCESS		(x = -3) Total visits =  548; p-value = 0.646673
+SUCCESS		(x = -2) Total visits =  535; p-value = 0.417033
+SUCCESS		(x = -1) Total visits =  533; p-value = 0.143121
+SUCCESS		(x =  1) Total visits =  598; p-value = 0.660458
+SUCCESS		(x =  2) Total visits =  593; p-value = 0.865734
+SUCCESS		(x =  3) Total visits =  654; p-value = 0.352436
+SUCCESS		(x =  4) Total visits =  743; p-value = 0.076559
+SUCCESS		(x =  5) Total visits =  764; p-value = 0.077248
+SUCCESS		(x =  6) Total visits =  737; p-value = 0.173893
+SUCCESS		(x =  7) Total visits =  706; p-value = 0.317774
+SUCCESS		(x =  8) Total visits =  745; p-value = 0.220592
+SUCCESS		(x =  9) Total visits =  784; p-value = 0.153392
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 301
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 55
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 627
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  651; p-value = 0.869435
+SUCCESS		(x = -8) Total visits =  695; p-value = 0.620029
+SUCCESS		(x = -7) Total visits =  675; p-value = 0.706960
+SUCCESS		(x = -6) Total visits =  658; p-value = 0.791821
+SUCCESS		(x = -5) Total visits =  666; p-value = 0.713538
+SUCCESS		(x = -4) Total visits =  609; p-value = 0.847647
+SUCCESS		(x = -3) Total visits =  578; p-value = 0.536037
+SUCCESS		(x = -2) Total visits =  581; p-value = 0.453268
+SUCCESS		(x = -1) Total visits =  592; p-value = 0.322972
+SUCCESS		(x =  1) Total visits =  644; p-value = 0.631181
+SUCCESS		(x =  2) Total visits =  684; p-value = 0.352723
+SUCCESS		(x =  3) Total visits =  713; p-value = 0.277440
+SUCCESS		(x =  4) Total visits =  721; p-value = 0.315717
+SUCCESS		(x =  5) Total visits =  735; p-value = 0.309340
+SUCCESS		(x =  6) Total visits =  749; p-value = 0.298917
+SUCCESS		(x =  7) Total visits =  736; p-value = 0.393270
+SUCCESS		(x =  8) Total visits =  755; p-value = 0.350671
+SUCCESS		(x =  9) Total visits =  795; p-value = 0.249884
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 244
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 309
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 297
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 43
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 596
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  625; p-value = 0.838572
+SUCCESS		(x = -8) Total visits =  633; p-value = 0.782006
+SUCCESS		(x = -7) Total visits =  596; p-value = 1.000000
+SUCCESS		(x = -6) Total visits =  546; p-value = 0.662364
+SUCCESS		(x = -5) Total visits =  540; p-value = 0.588738
+SUCCESS		(x = -4) Total visits =  543; p-value = 0.561770
+SUCCESS		(x = -3) Total visits =  532; p-value = 0.407102
+SUCCESS		(x = -2) Total visits =  571; p-value = 0.675901
+SUCCESS		(x = -1) Total visits =  615; p-value = 0.582100
+SUCCESS		(x =  1) Total visits =  555; p-value = 0.235017
+SUCCESS		(x =  2) Total visits =  527; p-value = 0.248561
+SUCCESS		(x =  3) Total visits =  506; p-value = 0.243700
+SUCCESS		(x =  4) Total visits =  460; p-value = 0.136526
+SUCCESS		(x =  5) Total visits =  418; p-value = 0.085697
+SUCCESS		(x =  6) Total visits =  383; p-value = 0.062866
+SUCCESS		(x =  7) Total visits =  348; p-value = 0.046345
+SUCCESS		(x =  8) Total visits =  347; p-value = 0.062581
+SUCCESS		(x =  9) Total visits =  359; p-value = 0.095935
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 206
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 375
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 14
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 1006
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits = 1007; p-value = 0.995686
+SUCCESS		(x = -8) Total visits = 1028; p-value = 0.899227
+SUCCESS		(x = -7) Total visits =  983; p-value = 0.886911
+SUCCESS		(x = -6) Total visits =  912; p-value = 0.527482
+SUCCESS		(x = -5) Total visits =  838; p-value = 0.211863
+SUCCESS		(x = -4) Total visits =  781; p-value = 0.057971
+SUCCESS		(x = -3) Total visits =  821; p-value = 0.065114
+SUCCESS		(x = -2) Total visits =  892; p-value = 0.142284
+SUCCESS		(x = -1) Total visits =  949; p-value = 0.203817
+SUCCESS		(x =  1) Total visits =  992; p-value = 0.754953
+SUCCESS		(x =  2) Total visits =  936; p-value = 0.367590
+SUCCESS		(x =  3) Total visits =  912; p-value = 0.348659
+SUCCESS		(x =  4) Total visits =  897; p-value = 0.358375
+SUCCESS		(x =  5) Total visits =  844; p-value = 0.228640
+SUCCESS		(x =  6) Total visits =  823; p-value = 0.218659
+SUCCESS		(x =  7) Total visits =  810; p-value = 0.225547
+SUCCESS		(x =  8) Total visits =  770; p-value = 0.174312
+SUCCESS		(x =  9) Total visits =  745; p-value = 0.158173
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 419
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 205
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 268
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 417
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 582
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  455; p-value = 0.366620
+SUCCESS		(x = -8) Total visits =  462; p-value = 0.363797
+SUCCESS		(x = -7) Total visits =  496; p-value = 0.484478
+SUCCESS		(x = -6) Total visits =  529; p-value = 0.639509
+SUCCESS		(x = -5) Total visits =  590; p-value = 0.937700
+SUCCESS		(x = -4) Total visits =  613; p-value = 0.731276
+SUCCESS		(x = -3) Total visits =  574; p-value = 0.916483
+SUCCESS		(x = -2) Total visits =  566; p-value = 0.786576
+SUCCESS		(x = -1) Total visits =  595; p-value = 0.703176
+SUCCESS		(x =  1) Total visits =  543; p-value = 0.252993
+SUCCESS		(x =  2) Total visits =  497; p-value = 0.150319
+SUCCESS		(x =  3) Total visits =  471; p-value = 0.145671
+SUCCESS		(x =  4) Total visits =  466; p-value = 0.198762
+SUCCESS		(x =  5) Total visits =  442; p-value = 0.171367
+SUCCESS		(x =  6) Total visits =  418; p-value = 0.147242
+SUCCESS		(x =  7) Total visits =  395; p-value = 0.128467
+SUCCESS		(x =  8) Total visits =  394; p-value = 0.154802
+SUCCESS		(x =  9) Total visits =  420; p-value = 0.249472
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 53
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 183
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 102
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 645
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  378; p-value = 0.071391
+SUCCESS		(x = -8) Total visits =  429; p-value = 0.120473
+SUCCESS		(x = -7) Total visits =  423; p-value = 0.086474
+SUCCESS		(x = -6) Total visits =  438; p-value = 0.082261
+SUCCESS		(x = -5) Total visits =  456; p-value = 0.079419
+SUCCESS		(x = -4) Total visits =  468; p-value = 0.062513
+SUCCESS		(x = -3) Total visits =  521; p-value = 0.122593
+SUCCESS		(x = -2) Total visits =  587; p-value = 0.351163
+SUCCESS		(x = -1) Total visits =  640; p-value = 0.889283
+SUCCESS		(x =  1) Total visits =  638; p-value = 0.845474
+SUCCESS		(x =  2) Total visits =  675; p-value = 0.629633
+SUCCESS		(x =  3) Total visits =  659; p-value = 0.861614
+SUCCESS		(x =  4) Total visits =  636; p-value = 0.924545
+SUCCESS		(x =  5) Total visits =  617; p-value = 0.794971
+SUCCESS		(x =  6) Total visits =  568; p-value = 0.518022
+SUCCESS		(x =  7) Total visits =  561; p-value = 0.516562
+SUCCESS		(x =  8) Total visits =  554; p-value = 0.512992
+SUCCESS		(x =  9) Total visits =  575; p-value = 0.636433
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 122
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 107
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 167
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 345
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 137
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 156
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 42
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 185
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 519
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  649; p-value = 0.327761
+SUCCESS		(x = -8) Total visits =  630; p-value = 0.373698
+SUCCESS		(x = -7) Total visits =  631; p-value = 0.334967
+SUCCESS		(x = -6) Total visits =  592; p-value = 0.494500
+SUCCESS		(x = -5) Total visits =  519; p-value = 1.000000
+SUCCESS		(x = -4) Total visits =  450; p-value = 0.418244
+SUCCESS		(x = -3) Total visits =  451; p-value = 0.345222
+SUCCESS		(x = -2) Total visits =  504; p-value = 0.788082
+SUCCESS		(x = -1) Total visits =  497; p-value = 0.494703
+SUCCESS		(x =  1) Total visits =  525; p-value = 0.852263
+SUCCESS		(x =  2) Total visits =  497; p-value = 0.693402
+SUCCESS		(x =  3) Total visits =  531; p-value = 0.867708
+SUCCESS		(x =  4) Total visits =  579; p-value = 0.481503
+SUCCESS		(x =  5) Total visits =  576; p-value = 0.555370
+SUCCESS		(x =  6) Total visits =  529; p-value = 0.925439
+SUCCESS		(x =  7) Total visits =  470; p-value = 0.673157
+SUCCESS		(x =  8) Total visits =  431; p-value = 0.480659
+SUCCESS		(x =  9) Total visits =  436; p-value = 0.532089
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 125
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 200
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 22
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 95
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 36
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 374
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 406
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 9
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 447
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 654
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+SUCCESS		(x = -9) Total visits =  827; p-value = 0.245984
+SUCCESS		(x = -8) Total visits =  774; p-value = 0.391607
+SUCCESS		(x = -7) Total visits =  717; p-value = 0.629003
+SUCCESS		(x = -6) Total visits =  680; p-value = 0.828398
+SUCCESS		(x = -5) Total visits =  656; p-value = 0.985293
+SUCCESS		(x = -4) Total visits =  629; p-value = 0.793885
+SUCCESS		(x = -3) Total visits =  651; p-value = 0.970408
+SUCCESS		(x = -2) Total visits =  667; p-value = 0.835597
+SUCCESS		(x = -1) Total visits =  652; p-value = 0.955899
+SUCCESS		(x =  1) Total visits =  633; p-value = 0.561475
+SUCCESS		(x =  2) Total visits =  603; p-value = 0.415558
+SUCCESS		(x =  3) Total visits =  552; p-value = 0.207208
+SUCCESS		(x =  4) Total visits =  549; p-value = 0.272498
+SUCCESS		(x =  5) Total visits =  570; p-value = 0.438811
+SUCCESS		(x =  6) Total visits =  556; p-value = 0.413924
+SUCCESS		(x =  7) Total visits =  576; p-value = 0.549732
+SUCCESS		(x =  8) Total visits =  604; p-value = 0.721121
+SUCCESS		(x =  9) Total visits =  610; p-value = 0.767941
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 248
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 480
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
+			RANDOM EXCURSIONS VARIANT TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) Number Of Cycles (J) = 97
+		(b) Sequence Length (n)  = 100000
+		--------------------------------------------
+
+		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
+			  INSUFFICIENT NUMBER OF CYCLES.
+		---------------------------------------------
+
